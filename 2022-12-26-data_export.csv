@@ -1,0 +1,38 @@
+Event Name,Source IP (Unique Count),Destination IP (Unique Count),Destination Port (Unique Count),Log Source (Unique Count),Low Level Category (Unique Count),Protocol (Unique Count),Username (Unique Count),Magnitude (Maximum),Event Count (Sum),Count
+Success Audit: A new process has been created,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Process Creation Success,Other,Multiple (2),5,455,117
+Failure Audit: A privileged service was called,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Misc Authorization,Other,Multiple (3),5,569,91
+Success Audit: An account was successfully logged on,Multiple (2),10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,User Login Success,Other,Multiple (2),5,52,34
+Success Audit: Successful logon with administrative or special privileges,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Admin Login Successful,Other,Multiple (2),5,46,28
+Success Audit: Group membership information,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,None,5,52,25
+Success Audit: A privileged service was called,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Misc Authorization,Other,None,5,68,25
+Success Audit: An operation was performed on an object,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,None,5,152,20
+Success Audit: A scheduled task was updated,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,Multiple (2),5,88,19
+Credential Manager Credentials Were Read,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Read Activity Succeeded,Other,None,5,178,18
+Success Audit: Cryptographic operation,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,Multiple (2),5,32,16
+System Warning event,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,Multiple (2),5,16,12
+Success Audit: Key migration operation,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,None,5,16,12
+Success Audit: An account was logged off,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Host Logout,Other,MonikaAnkushPawar,5,12,12
+System Information Event,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,None,5,40,10
+Success Audit: Group Membership Enumerated,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,None,5,27,10
+Success Audit: A change has been made to Windows Firewall exception list. A rule was added,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Successful Configuration Modification,Other,None,5,14,8
+Success Audit: A change has been made to Windows Firewall exception list. A rule was deleted,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Successful Configuration Modification,Other,None,5,14,8
+Failure Audit: Windows Firewall did not apply the following rule:,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Warning,Other,None,7,120,8
+Windows Update Started Downloading An Update,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,File Download Attempt,Other,None,5,7,6
+Success Audit: Group Membership Enumerated,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,None,5,13,6
+Success Audit: A logon was successful using explicit credentials,Multiple (2),10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,User Login Success,Other,monika.pawar,5,6,6
+Success Audit: A trusted logon process has been registered with the Local Security Authority,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,None,5,6,6
+Success Audit: System audit policy was changed,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Policy Change,Other,None,5,92,5
+Failure Audit: An operation was attempted on a privileged object,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,None,5,360,5
+Access History in Hive Was Cleared,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,None,5,3,3
+Vault credentials were read,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Read Activity Succeeded,Other,None,5,3,3
+Success Audit: The workstation was unlocked,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Host Unlocked,Other,MonikaAnkushPawar,5,3,3
+Success Audit: A scheduled task was deleted,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,None,5,3,3
+The system time has changed,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,None,5,2,2
+Success Audit: The workstation was locked,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Host Locked,Other,MonikaAnkushPawar,5,2,2
+Success Audit: Key file operation,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,None,5,2,2
+Success Audit: A scheduled task was created,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Scheduled Task Creation Success,Other,None,5,2,2
+Active System Time Update,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,None,5,1,1
+Windows Update Started Installation,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Update Activity Attempted,Other,None,5,1,1
+Windows Update Successfully Installed,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Update Activity Succeeded,Other,None,5,1,1
+System Error Event,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,None,5,1,1
+WAS_EVENT_SHUTDOWN_WP_INACTIVE,10.10.11.183,10.10.11.183,0,WindowsAuthServer @ 10.10.11.183,Information,Other,None,5,1,1
